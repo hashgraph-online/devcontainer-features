@@ -1,0 +1,9 @@
+{
+    "image": "mcr.microsoft.com/devcontainers/python:3.12",
+    "features": {
+        "ghcr.io/hashgraph-online/devcontainer-features/hol-guard:1": {
+            "version": "latest",
+            "initHarness": "none"
+        }
+    }
+}
